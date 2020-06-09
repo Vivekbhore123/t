@@ -1,0 +1,104 @@
+body{
+  font-weight:bolder;
+  /*background-color:rgb(240,28,235);*/
+  background-image:url(wwe.jpg);
+}
+.button{
+	background:#e7e7e7;
+	border:1px solid;
+	font:700 13px Helvetica,Arial;
+	height:30px;
+	border-radius:3px;
+	line-height:28px;
+	padding:0 20px;
+	text-align:centre;
+	margin-right:10px;
+	box-sizing:border-box;
+}
+ul.button{
+ padding:0;
+ list-style-type:square;
+ 
+}
+li.button{
+ display:block;
+}
+a{
+ color:#666;
+ text-decoration:none;
+ float:left;
+}
+video.mrp{
+	display: block;
+margin: 0 auto;
+ text-align:centre;
+ border:2px solid black;
+}
+video.yym{
+	display: block;
+margin: 0 auto;
+ text-align:centre;
+ border:2px solid black;
+}
+blockquote{
+  color:green;
+  }
+h1,h2{
+  background-color:yellow;
+  border-bottom:2px solid black;
+  font-style:italic;
+}
+p.bad{
+ line-height:50px;
+ background-color:#e5e4d7;
+ padding:25px;
+ border-color:black;
+ border-width:4px;
+ border-style:solid;
+ background-image:url(cpda.jfif);
+}
+iframe{
+  border:5px solid black;
+  }
+h1{
+ color:blue;
+ text-decoration:underline;
+}
+h3{
+ color:black;
+ border-bottom: 2px solid black;
+ }
+p{
+  color:green;
+  font-size:25;
+  font-family:helvetica;
+}
+p.pinti{
+   color:blue;
+   }
+.imagec{
+display:block;
+margin-left:auto;
+margin-right:auto;
+}
+dd{
+  padding:10px;
+  border:2px solid black;
+}
+
+ul li a:hover {
+	background-color:#d3d3d3;
+}
+
+h1.dha,h2.dha{
+	text-align:center;
+}
+a:link{
+ color:blue;
+}
+a:visited{
+	color:#8C8c9D;
+}
+a:hover{
+	color:#F15A51;
+}
